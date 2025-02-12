@@ -1,0 +1,14 @@
+{
+  "US": {
+    "logo": "https://example.com/assets/logos/us.png",
+    "theme": "light"
+  },
+  "IN": {
+    "logo": "https://example.com/assets/logos/in.png",
+    "theme": "dark"
+  },
+  "DEFAULT": {
+    "logo": "https://example.com/assets/logos/default.png",
+    "theme": "light"
+  }
+}
