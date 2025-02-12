@@ -1,14 +1,14 @@
 {
   "US": {
-    "logo": "https://example.com/assets/logos/us.png",
+    "logo": "https://raw.githubusercontent.com/ramsawasthi/dynconfig/refs/heads/master/asset/images/us.png",
     "theme": "light"
   },
   "IN": {
-    "logo": "https://example.com/assets/logos/in.png",
+    "logo": "https://raw.githubusercontent.com/ramsawasthi/dynconfig/refs/heads/master/asset/images/in.png",
     "theme": "dark"
   },
   "DEFAULT": {
-    "logo": "https://example.com/assets/logos/default.png",
+    "logo": "https://raw.githubusercontent.com/ramsawasthi/dynconfig/refs/heads/master/asset/images/logo_default.png",
     "theme": "light"
   }
 }
