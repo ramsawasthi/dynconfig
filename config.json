@@ -1,10 +1,10 @@
 {
   "US": {
-    "logo": "https://raw.githubusercontent.com/ramsawasthi/dynconfig/refs/heads/master/asset/images/us.png",
+    "logo": "https://raw.githubusercontent.com/ramsawasthi/dynconfig/refs/heads/master/asset/images/logo_us.png",
     "theme": "light"
   },
   "IN": {
-    "logo": "https://raw.githubusercontent.com/ramsawasthi/dynconfig/refs/heads/master/asset/images/in.png",
+    "logo": "https://raw.githubusercontent.com/ramsawasthi/dynconfig/refs/heads/master/asset/images/logo_in.png",
     "theme": "dark"
   },
   "DEFAULT": {
